@@ -11,7 +11,7 @@ This repository contains a MATLAB implementation to compute and evaluate frequen
 Usage
 --------
 
-Run script main.m
+Run script main_frequRobUPs.m
 
 
 Contents
