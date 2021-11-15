@@ -47,7 +47,7 @@ For details, see the attached LICENSE.
 Reference
 ---------
 
-TBD
+1) Christoph S. Aigner, Sebastian Dietrich, Felix Krüger, Max Lutz and Sebastian Schmitter, Towards frequency robust tailored and universal pulses in the human heart at 7T, submitted to ISMRM 2022
 
 Created by Christoph S. Aigner, PTB, November 2021.
 Email: christoph.aigner@ptb.de
