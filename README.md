@@ -18,7 +18,7 @@ Contents
 --------
 
 ##### Test scripts (run these):
-    main.m          test script to compute and evaluate tailored respiration specific and respiration robust pulses at 7T
+    main_frequRobUPs.m          test script to compute and evaluate tailored respiration specific and respiration robust pulses at 7T
 
 ##### Routines called by the test scripts:
     cmap.mat                256x3 double matrix with the used colormap of the manuscript
