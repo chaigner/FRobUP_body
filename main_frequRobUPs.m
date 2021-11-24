@@ -1,12 +1,12 @@
 % This test script loads invivo B1+ datasets of the human body at 7T 
 % and computes frequency robust universal kT-point pulses.
 %
-% Christoph S. Aigner, Sebastian Dietrich, Felix Krüger, Max Lutz and Sebastian
+% Christoph S. Aigner, Sebastian Dietrich, Felix KrÃ¼ger, Max Lutz and Sebastian
 % Schmitter, Towards frequency robust tailored and universal pulses in the 
 % human heart at 7T, submitted to ISMRM 2022
 %
 % The 36 channel-wise invivo B1+ datasets of the human body at 7T are 
-% available at: TBD
+% available at: https://doi.org/10.6084/m9.figshare.17074724.v1
 %
 % The optimization of the kT-points is performed using code by Will Grissom
 % and Zhipeng Cao (https://bitbucket.org/wgrissom/acptx/) who have given 
